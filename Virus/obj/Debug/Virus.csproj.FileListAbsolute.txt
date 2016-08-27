@@ -1,0 +1,13 @@
+E:\Programming\Projects\Virus\Virus\obj\Debug\Virus.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\Virus\Virus\obj\Debug\Virus.Form1.resources
+E:\Programming\Projects\Virus\Virus\obj\Debug\Virus.Properties.Resources.resources
+E:\Programming\Projects\Virus\Virus\obj\Debug\Virus.csproj.GenerateResource.Cache
+E:\Programming\Projects\Virus\Virus\bin\Debug\APCP.exe.config
+E:\Programming\Projects\Virus\Virus\bin\Debug\APCP.exe.manifest
+E:\Programming\Projects\Virus\Virus\bin\Debug\APCP.application
+E:\Programming\Projects\Virus\Virus\bin\Debug\APCP.exe
+E:\Programming\Projects\Virus\Virus\bin\Debug\APCP.pdb
+E:\Programming\Projects\Virus\Virus\obj\Debug\APCP.exe.manifest
+E:\Programming\Projects\Virus\Virus\obj\Debug\APCP.application
+E:\Programming\Projects\Virus\Virus\obj\Debug\APCP.exe
+E:\Programming\Projects\Virus\Virus\obj\Debug\APCP.pdb
